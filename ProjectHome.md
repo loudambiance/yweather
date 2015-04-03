@@ -1,0 +1,1 @@
+yWeather is a script used to get different aspects of weather from a yahoo weather rss feed. It is different from others in that it locally caches the information until it is told to update again.
